@@ -1,5 +1,5 @@
 const NPM_MODULE_NAME = "@react-native-firebase/app";
-const NPM_MODULE_VERSION = "~6.2.0";
+const NPM_MODULE_VERSION = "~6.3.4";
 
 const IOS_INSERT_APPDELEGATE_1 = `@import Firebase;\n`;
 const IOS_INSERT_APPDELEGATE_2 = `  [FIRApp configure];`;
